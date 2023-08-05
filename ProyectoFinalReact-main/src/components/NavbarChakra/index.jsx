@@ -59,7 +59,7 @@ const Navbar = ({ cartCount }) => {
 
       <NavLink to="/">
         <Text color="blackAlpha.700" fontSize="2xl" fontWeight="extrabold">
-          mate store
+          Dalthon store
         </Text>
       </NavLink>
       <Spacer />
